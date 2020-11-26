@@ -1,5 +1,6 @@
 # Zoom-Clone
-Communication Project.
+
+DIY Communication Project.  
 
 Built with JS, Stringee API, Glitch.
 
